@@ -30,7 +30,7 @@ This analysis yielded several key findings leading to potential optimizations:
 
 Visual analysis and insights were consolidated in an interactive Power BI dashboard (`PowerBI_visualization/content_discovery_analysis_visual.pbix`). Key views:
 
-![Overview](PowerBI_visualization/01_content_performance_overwiew.png)
+![Overview](PowerBI_visualization/01_content_performance_overview.png)
 ![Discovery Analysis](PowerBI_visualization/02_content_discovery_pathway_analysis.png)
 ![Search Analysis](PowerBI_visualization/03_search_performance_analysis.png)
 
