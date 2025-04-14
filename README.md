@@ -41,4 +41,4 @@ Visual analysis and insights were consolidated in an interactive Power BI dashbo
 
 ## Data Source Note
 
-Analysis is based on **simulated** user data due to the proprietary nature of real interaction logs. Sample data is provided in the `Data/` folder. SQL analysis queries are in `SQL/`.
+Analysis is based on **simulated** user data due to the proprietary nature of real interaction logs. Sample data is provided in the `Data_files/` folder. SQL analysis queries are in `SQL_analysis/`.
